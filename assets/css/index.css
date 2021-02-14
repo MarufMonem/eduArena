@@ -1,0 +1,58 @@
+nav{
+    background-color:#1B2747 ;
+    color: #fbfffe;
+}
+nav a{
+    font-size: 1.2em;
+    color: whitesmoke;
+}
+a:hover{
+    color: #F5A83B;
+    font-weight: 200;
+}
+#navbarNav a{
+    padding-left: 50px;
+}
+
+.navbar-brand img{
+    width:6.5em;
+}
+h1{
+    font-size: 3.2em;
+    color: #1B2747;
+}
+.active{
+    color: #F5A83B;
+}
+
+/* #med{
+    background-image: url(https://images.unsplash.com/photo-1576671081837-49000212a370?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1288&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-shadow: 1px whitesmoke;
+} */
+
+
+
+.btn{
+    background-color: #F5A83B;
+    width: 10em;
+}
+
+#footer .card{
+    background-color: #1B2747;
+    color: whitesmoke;
+    font-size: 1.3em;
+}
+
+#footer .card i{
+    font-size: 1.5em;
+    color: whitesmoke;
+}
+#footer .card i:hover{
+    color: #F5A83B;
+}
